@@ -4,7 +4,7 @@
     padding: 0;
 }
 .header-parent{
-    width: 1362px;
+    width: 1347px;
     height: 75px;
     background-color:#1F2927;
     display: flex;
@@ -86,8 +86,13 @@ li a{
 }
 .main-lower-child{
     display: flex;
-    gap: 40px;
+    gap: 30px;
 }
 .main-lower-child-1{
     margin-top: 50px;
+}
+.main-2{
+  height: 250px;  
+  background-color:#6D747D;
+  ;
 }
